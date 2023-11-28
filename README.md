@@ -71,6 +71,7 @@ $ cast --help
 
 ## .ENV file 
 In order to deploy into sepolia testnet, an .env file need to be provide with:
--SEPOLIA_RPC_URL=xxxx
--ETHERSCAN_API_KEY=xxxx
--PRIVATE_KEY=xxxx
+
+- SEPOLIA_RPC_URL=xxxx
+- ETHERSCAN_API_KEY=xxxx
+- PRIVATE_KEY=xxxx
